@@ -25,15 +25,15 @@ Include any essential instructions for:
 - Configuring It
 - Running it
 
-## Known issues
-- Document any known significant shortcomings with the software.
-- Known bugs (shortlist)
-
 ### Contributing
 - Contributor Guidelines
 - Code Style/Requirements
 - Format for commit messages
 - Thank you (name contributors)
+
+### Known issues
+- Document any known significant shortcomings with the software.
+- Known bugs (shortlist)
 
 ### TODO
 - Next steps
