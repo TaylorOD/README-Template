@@ -1,4 +1,4 @@
-## Taylor's README Template
+## Project name README:
 
 ### Project Name/Intro
 
@@ -12,16 +12,11 @@
 - Include badges.
 - If possible, include screenshots and demo videos.
 
-### Core Technical Concepts/Inspiration
-
-- Why does it exist?
-- Frame your project for the potential user. 
-- Compare/contrast your project with other, similar projects so the user knows how it is different from those projects.
-- Highlight the technical concepts that your project demonstrates or supports. Keep it very brief.
-- Keep it useful.
-
-  - **Technology stack**: Indicate the technological nature of the software, including primary programming language(s) and whether the software is intended as standalone or as a module in a framework or other ecosystem.
-  - **Status**:  Alpha, Beta, 1.1, etc. It's OK to write a sentence, too. The goal is to let interested people know where this project is at. This is also a good place to link to the [CHANGELOG](CHANGELOG.md).
+### Technology stack: 
+- Indicate the technological nature of the software, including primary programming language(s) and whether the software is intended as standalone or as a module in a framework or other ecosystem.
+  
+### Status:  
+- Alpha, Beta, 1.1, etc. It's OK to write a sentence, too. The goal is to let interested people know where this project is at. This is also a good place to link to the [CHANGELOG](CHANGELOG.md).
 
 ### Getting Started/Requirements/Prerequisites/Dependencies
 Include any essential instructions for:
@@ -30,15 +25,9 @@ Include any essential instructions for:
 - Configuring It
 - Running it
 
-### More Specific Topics (+ sample sub-categories)
-- Versioning: Services, APIs, Systems
-- Common Error Messages/related details
-- Tests
-- Is it a Swift project? Please take a look at Mattt Thompson & Nate Cook's [Swift documentation](http://nshipster.com/swift-documentation/) guide
-
 ## Known issues
-
-Document any known significant shortcomings with the software.
+- Document any known significant shortcomings with the software.
+- Known bugs (shortlist)
 
 ### Contributing
 - Contributor Guidelines
@@ -52,7 +41,7 @@ Document any known significant shortcomings with the software.
 - Known bugs (shortlist)
 
 ### Contact
-- Email address
+- taylorsunwantedemails@gmail.com
 
 ---
 
