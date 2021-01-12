@@ -41,7 +41,7 @@ Include any essential instructions for:
 - Known bugs (shortlist)
 
 ### Contact
-- taylorsunwantedemails@gmail.com
+- dorsetttaylordev@gmail.com
 
 ---
 
